@@ -1,0 +1,7 @@
+version: 2
+authtoken: token
+tunnels:
+  first:
+    addr: app:5173
+    proto: http
+    hostname: hostname
